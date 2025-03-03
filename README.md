@@ -36,10 +36,12 @@ bash
 Copy
 Edit
 node scraper.js
+
 Usage
 Ensure you replace ReplaceWithYourTargetHere in the script with the actual URL of the site you wish to scrape.
 Run the script, and it will iterate through multiple pages, collecting business information and saving it to scrapedData.json.
 The scraper includes timeouts and error handling to manage slow-loading pages and avoid crashes.
+
 Sample Output
 json
 Copy
@@ -56,6 +58,7 @@ Edit
     "address": "8150 E 46th St\nTulsa, OK 74145"
   }
 ]
+
 Legal & Ethical Considerations
 ⚠️ This script is intended for educational and research purposes only. Ensure that your usage complies with the terms of service of the website you are scraping. Always obtain permission before scraping non-public or proprietary data.
 
