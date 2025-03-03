@@ -59,5 +59,3 @@ Feel free to fork this project and submit pull requests with improvements or add
 
 License
 This project is licensed under the MIT License, allowing modification and distribution with attribution.
-
-This keeps it professional while ensuring users understand how to use the script responsibly. Let me know if you want any changes! 🚀
